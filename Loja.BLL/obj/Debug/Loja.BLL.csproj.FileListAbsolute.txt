@@ -1,0 +1,10 @@
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\bin\Debug\Loja.BLL.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\bin\Debug\Loja.BLL.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\bin\Debug\Loja.DAL.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\bin\Debug\Loja.DTO.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\bin\Debug\Loja.DAL.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\bin\Debug\Loja.DTO.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\obj\Debug\Loja.BLL.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\obj\Debug\Loja.BLL.csproj.CopyComplete
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\obj\Debug\Loja.BLL.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.BLL\obj\Debug\Loja.BLL.pdb

@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\Loja.UI.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.MDIParent1.resources
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\Loja.UI.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\LojaWindowsForms.exe.config
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\LojaWindowsForms.exe
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\LojaWindowsForms.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.BLL.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DTO.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.BLL.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DTO.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\Loja.UI.csproj.CopyComplete
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.exe
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.Cadastro_usuario.resources

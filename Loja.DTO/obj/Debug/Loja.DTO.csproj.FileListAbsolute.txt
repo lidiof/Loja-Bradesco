@@ -1,0 +1,5 @@
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DTO\bin\Debug\Loja.DTO.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DTO\bin\Debug\Loja.DTO.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DTO\obj\Debug\Loja.DTO.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DTO\obj\Debug\Loja.DTO.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DTO\obj\Debug\Loja.DTO.pdb

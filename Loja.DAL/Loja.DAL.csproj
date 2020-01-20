@@ -47,6 +47,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
+    <Compile Include="Produto_DAL.cs" />
     <Compile Include="Usuario_DAL.cs" />
   </ItemGroup>
   <ItemGroup>

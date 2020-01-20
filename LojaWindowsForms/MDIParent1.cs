@@ -26,5 +26,12 @@ namespace LojaWindowsForms
             childForm.Show();
 
         }
+
+        private void produtosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form childForm = new Cadastro_Produtos();
+            childForm.MdiParent = this;
+            childForm.Show();
+        }
     }
 }

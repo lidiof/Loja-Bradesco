@@ -16,3 +16,4 @@ C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindow
 C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DAL.dll
 C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DAL.pdb
 C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DAL.dll.config
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.Cadastro_Produtos.resources

@@ -13,3 +13,6 @@ C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\Loja.UI.cs
 C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.exe
 C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.pdb
 C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\obj\Debug\LojaWindowsForms.Cadastro_usuario.resources
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DAL.dll
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DAL.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\LojaWindowsForms\bin\Debug\Loja.DAL.dll.config

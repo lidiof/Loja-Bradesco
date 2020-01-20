@@ -6,3 +6,4 @@ C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DAL\obj\Debug\Loja.DAL.csprojAss
 C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DAL\obj\Debug\Loja.DAL.csproj.CopyComplete
 C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DAL\obj\Debug\Loja.DAL.dll
 C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DAL\obj\Debug\Loja.DAL.pdb
+C:\Users\Pichau\source\repos\Loja Bradesco\Loja.DAL\bin\Debug\Loja.DAL.dll.config
